@@ -17,7 +17,7 @@ compile: run
 generate a Graph G(V, E):
             ./ggen <#nodes> <#probability> [#out-file]
 
-convert to CNF：
+convert to CNF: 
             ./g2cnf <#gfile> <#color> [#our-file]
 
 throw it to the SAT solver:  
